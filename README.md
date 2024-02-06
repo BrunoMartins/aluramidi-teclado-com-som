@@ -1,7 +1,7 @@
 <h1>Aluramidi</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto desenvolvido durante o curso de Javascript da alura.</p>
+<p>Projeto desenvolvido durante o curso de Javascript da alura, aplicação que emite os sons das teclas que forem clicadas.</p>
 
 ## 🚀 Tecnologias
 <div>
