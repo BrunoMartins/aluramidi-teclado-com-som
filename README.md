@@ -3,6 +3,8 @@
 <h2>🔖 Sobre</h2>
 <p>Projeto desenvolvido durante o curso de Javascript da alura, aplicação que emite os sons das teclas que forem clicadas.</p>
 
+[Acessar a página]( https://brunomartins.github.io/aluramidi-teclado-com-som/)
+
 ## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
